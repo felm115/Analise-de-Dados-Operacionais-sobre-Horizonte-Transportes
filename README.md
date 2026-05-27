@@ -4,7 +4,7 @@
 - Com Excel, eu organizei um banco de dados no qual é possível cadastrar clientes e atualizar dados sempre que for necessário.
 - Já no Power BI, verifiquei erros e editei com Power Query, criei medidas para serem usadas no dashboard, criei um dashboard para analisar a situação da empresa.
 
-
+![Cadastro](https://github.com/felm115/An-lise-de-Dados-Operacionais-sobre-Horizonte-Transportes/blob/main/Cadastro.gif)
 
 ## Problemas Encontrados 
 - Grande porcentual de atrasos (40%) 
