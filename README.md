@@ -6,6 +6,10 @@
 
 ![Cadastro](https://github.com/felm115/An-lise-de-Dados-Operacionais-sobre-Horizonte-Transportes/blob/main/Cadastro.gif)
 
+
+![Dashboard](https://github.com/felm115/An-lise-de-Dados-Operacionais-sobre-Horizonte-Transportes/blob/main/Dashboard.png)
+
+
 ## Problemas Encontrados 
 - Grande porcentual de atrasos (40%) 
 - Poucos motoristas para uma quantidade alta de entregas 
